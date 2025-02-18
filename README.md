@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀 I'm a **Data Analyst Enthusiast** with a passion for uncovering insights from data and making data-driven decisions. I specialize in **data visualization, statistical analysis, and machine learning**, constantly exploring new techniques to enhance my analytical skills.  
 
----
+--- 
 
 ## 👩‍💻 About Me  
 
