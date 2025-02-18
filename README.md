@@ -1,39 +1,26 @@
-# Hi there, I'm Kadek Juniawati! 👋  
+# Kadek Juniawati - Data Analyst  
 
-Welcome to my GitHub profile! 🚀 I'm a **Data Analyst Enthusiast** with a passion for uncovering insights from data and making data-driven decisions. I specialize in **data visualization, statistical analysis, and machine learning**, constantly exploring new techniques to enhance my analytical skills.  
+Hi, I'm **Kadek Juniawati** 👋  
+A passionate **Data Analyst** with expertise in **MySQL, Google Looker Studio, and Python**. I enjoy analyzing data, finding patterns, and turning raw data into meaningful insights.  
 
---- 
+## 🔍 About Me  
+- 📍 **Location:** Bali, Indonesia  
+- 🎓 **Education:** Majoring in Information Technology at Universitas Udayana  
+- 🚀 **Currently Learning:** Advanced Data Visualization, SQL Optimization, and Predictive Analytics  
+- ✨ **Fun Fact:** I'm a crochet artist and enjoy studying fashion  
 
-## 👩‍💻 About Me  
-
-- 🌍 **Based in:** Bali, Indonesia  
-- 🎓 **Education:** Information Technology student at **Universitas Udayana**  
-- 📊 **Currently Learning:** Machine Learning, SQL Optimization, Power BI, Google Looker Studio, and Python for Data Science  
-- 🧶 **Fun Fact:** I'm a crochet artist and enjoy studying fashion in my free time!  
-
----
-
-## 🛠️ Skills  
-
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- **Data Visualization:** Power BI, Tableau, **Google Looker Studio**, Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn, TensorFlow (Basic)  
-- **Database:** **MySQL**  
-- **Tools & Platforms:** Jupyter Notebook, Google Colab, Excel  
-
----
+## 🛠 Skills  
+- **Data Analysis:** Python (Pandas, NumPy), SQL (MySQL), Google Looker Studio  
+- **Data Visualization:** Matplotlib, Seaborn, Google Looker Studio  
+- **Database Management:** MySQL  
+- **Other Tools:** Excel (Pivot Tables, Power Query), Jupyter Notebook  
 
 ## 📊 GitHub Stats  
-
 ![Kadek Juniawati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadekjuniawati&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadekjuniawati&layout=compact&theme=radical)  
-
----
 
 ## 📬 Get in Touch  
+- 📧 Email: [juniawati103@gmail.com](mailto:juniawati103@gmail.com)  
+- 💼 LinkedIn: [Kadek Juniawati](https://www.linkedin.com/in/juniawatinikadek)  
+- 📸 Instagram: [@juniii_26](https://instagram.com/juniii_26)  
 
-- 📧 **Email:** [juniawati103@gmail.com](mailto:juniawati103@gmail.com)  
-- 💼 **LinkedIn:** [Kadek Juniawati](https://www.linkedin.com/in/juniawatinikadek)  
-
-💡 **Open to collaborations on data-related projects!**  
-Feel free to reach out if you're interested in working together. 😊  
+🚀 Let's collaborate and explore data together!  
