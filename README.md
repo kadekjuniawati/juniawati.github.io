@@ -12,29 +12,6 @@ Welcome to my GitHub profile! I'm Kadek Juniawati, a passionate software develop
 
 ## Skills
 
-- **Languages:** JavaScript, TypeScript, Python, Java
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. **Project Name 1**
-   - Description: A brief description of the project.
-   - Technologies: React, Node.js, MongoDB
-   - [GitHub Repository](#)
-
-2. **Project Name 2**
-   - Description: A brief description of the project.
-   - Technologies: Python, Django, PostgreSQL
-   - [GitHub Repository](#)
-
-3. **Project Name 3**
-   - Description: A brief description of the project.
-   - Technologies: Java, Spring Boot, MySQL
-   - [GitHub Repository](#)
 
 ## GitHub Stats
 
